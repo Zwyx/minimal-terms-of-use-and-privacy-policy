@@ -19,8 +19,11 @@ Use and Privacy Policy.** This is what this project attempts to do.
 
 The main goals are:
 
-- limitation of liability,
-- declaration of information that may be collected.
+- limitation of liability
+  - for instance, to prevent the app owner from being liable if a bug in the app
+    incurs a loss to a user;
+- declaration of information that may be collected
+  - which might be required in some jurisdictions.
 
 > [!WARNING]
 >
