@@ -52,9 +52,11 @@ This is primarily intended for individual developers making an app which:
 > The app can have simple analytics and error reporting tools. You need to make
 > sure that these tools don't use cookies and don't send personal user data.
 
-Simply place the following Terms of Use and Privacy Policy on you app, and
-replace `**<your-name>**` with your name. You might replace `Application` by
-`Website` (keep the first letter capitalised where it is as such).
+Simply place the following Terms of Use and Privacy Policy on your app, and
+replace all elements like `**<your-name>**` with the corresponding information.
+You might replace `Application` by `Website` (keep the first letter capitalised
+where it is as such). Also note that some parts are optional, and decide if you
+want to include any of them.
 
 ```md
 # Terms of use
@@ -80,6 +82,12 @@ merchantability, fitness for a particular purpose and noninfringement. We make
 no guarantees that they always will be safe, secure, or error-free, that they
 will function without disruptions, delays, or imperfections or content will be
 accurate, current and complete.
+
+## [Optional part: include if users can submit content] Content standards
+
+You must not submit content that is illegal.
+
+Takedown requests can be sent to **<your-contact-information>**.
 
 ## Links to third-party content
 
@@ -118,7 +126,7 @@ collect certain information automatically when you use our Services, such as:
 - Application performance information, such as software errors if they occur.
 
 Our Application and Services are hosted by hosting providers, such as Amazon,
-Google, Microsoft. These hosting provider may also collect the information
+Google, Microsoft. These hosting providers may also collect the information
 described above.
 
 ## How do we use this information?
